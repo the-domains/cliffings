@@ -1,0 +1,23 @@
+name: cliffings
+favicon: null
+layout_spectrum: 0.5075048506259918
+typography_spectrum: 0.20051560341380537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.39900635671801865
+  lightness: 0.14351899060420692
+  saturation: 0.543408912140876
+  rhythmicContrast: 0.01505854120478034
+purpose: []
