@@ -2,6 +2,7 @@ name: cliffings
 favicon: null
 layout_spectrum: 0.89105
 typography_spectrum: 0.15449
+title: cliffings
 cta:
   domain: null
   bucket: null
